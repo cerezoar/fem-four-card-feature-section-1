@@ -108,7 +108,7 @@ section .calcu {
 
 @media (max-width: 375px) {
     #reliable,
-        #powered {
+    #powered {
             font-size: 26px;
         }
 }
